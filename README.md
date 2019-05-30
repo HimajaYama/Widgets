@@ -7,7 +7,7 @@ Sample Android Project that displays widgets on homescreen.
 
 Widgets are an essential aspect of home screen customization. Widgets are used as shortcut of an app.
 Users can move widgets across their home screen panels, and, if supported, resize them to tailor the amount of information within a widget
-to their preference.
+to their preference.A widget is a simple application extension that is often part of a larger application already installed on the device.
 
 
 Types of Widgets:
