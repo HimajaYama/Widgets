@@ -1,5 +1,5 @@
 # Widgets
-Sample Android Project that displays widgets on homescreen
+Sample Android Project that displays widgets on homescreen.
 
 
 **Description**
